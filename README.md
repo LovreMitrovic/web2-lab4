@@ -12,7 +12,7 @@ The goal is to demonstrate that a custom website with its associated resources l
 4. Configure support for the HTTP/2 protocol in the Nginx server.
 5. Activate the HTTP/2 protocol.
 6. Confirm that support for the HTTP/2 protocol is enabled.
-7. 
+
 **Server Configuration:**
 - Nginx directory: `/var/www/html/lab4`
 - Nginx configuration file: `/etc/nginx/nginx.conf`
